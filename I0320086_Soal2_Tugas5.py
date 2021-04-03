@@ -2,13 +2,13 @@
 nama = input("Masukkan Nama :")
 nilai = float(input("Masukkan Nilai Angka:"))
 # Buat percabangan
-if nilai >= 86 :
+if nilai >= 85 :
     konversi = "A"
-elif nilai >= 82 :
+elif nilai >= 80 :
     konversi = "A-"
-elif nilai >= 77 :
+elif nilai >= 75 :
     konversi = "B+"
-elif nilai >= 68 :
+elif nilai >= 70 :
     konversi = "B"
 elif nilai >= 65 :
     konversi = "C+"
